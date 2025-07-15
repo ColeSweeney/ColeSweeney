@@ -16,14 +16,20 @@ I'm a recent Informatics graduate from Indiana University with a focus on data s
 
 ## 💻 Projects
 
-### 🧠 Data-Driven EEG Band Discovery with Decision Trees  
-Used scikit-learn to build interpretable models for analyzing EEG band patterns in cognitive state research. [Publication](#)  
+### 💉 COVID-19 Vaccination Rate Dashboard  
+Created an interactive dashboard using Python (Pandas, Plotly, Dash) to track COVID-19 vaccination rates across U.S. states. Pulled data from public APIs (CDC and/or Our World in Data) and visualized trends over time. Designed to be simple, responsive, and easy to understand for non-technical users, including public health outreach teams.
 
-### 🌡️ Sensor Simulation Script *(in progress)*  
-Simulates thermocouple and voltage readings to test data pipeline performance. Focused on clean code, realistic randomness, and modular testing.  
+### 🌍 Environmental Health Dashboard  
+Used Python (Pandas, Plotly, Dash) to visualize PM2.5 air quality data from the OpenAQ API. Created dynamic visualizations and trend tracking across U.S. cities. Used by peers for public health research and environmental policy projects.
 
-### ⌨️ Brain-Inspired UI Navigation *(in progress)*  
-Python-based keyboard emulation prototype that explores simplified input mapping for motor-impaired users.  
+### 🧠 EEG Band Discovery with Decision Trees *(In Progress)*  
+Built interpretable models in Python using scikit-learn to analyze EEG frequency band patterns and cognitive states. Focused on decision tree modeling for explainability. Shared as part of a research collaboration.
+
+### 🌡️ Sensor Simulation Script *(In Progress)*  
+Developing a Python-based tool to simulate thermocouple and voltage readings. Used for testing data pipelines, validating refresh intervals, and measuring system performance under load. Incorporates realistic signal variation and modular config.
+
+### ⌨️ Brain-Inspired UI Navigation *(In Progress)*  
+Creating a Python program that uses keyboard emulation (`pynput`) to simulate user input through simplified binary triggers. Designed to explore accessible input systems inspired by brain-computer interfaces (BCI) for motor-impaired users.
 
 ## 📌 Goals  
 - Build and document more public-facing projects  
