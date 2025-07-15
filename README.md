@@ -16,6 +16,9 @@ I'm a recent Informatics graduate from Indiana University with a focus on data s
 
 ## 💻 Projects
 
+### 🍽️ Plate Saver – Food Waste Reduction App  
+Collaborated with a student team to design and build a full-stack web app aimed at reducing food waste on campus. Users could log and track leftover meals, get meal planning suggestions, and measure food saved over time. Built using Python, Flask, SQL, Google Api, and HTML/CSS. Served as a capstone project for the Informatics degree at Indiana University.
+
 ### 💉 COVID-19 Vaccination Rate Dashboard  
 Created an interactive dashboard using Python (Pandas, Plotly, Dash) to track COVID-19 vaccination rates across U.S. states. Pulled data from public APIs (CDC and/or Our World in Data) and visualized trends over time. Designed to be simple, responsive, and easy to understand for non-technical users, including public health outreach teams.
 
