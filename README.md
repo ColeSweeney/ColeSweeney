@@ -56,7 +56,7 @@ Focused on data quality, visualization, and environmental metrics.
 ---
 
 ## 📫 Contact
-- LinkedIn: [linkedin.com/in/colesweeney](https://linkedin.com/in/colesweeney)  
+- LinkedIn: [linkedin.com/in/colesweeney](https://www.linkedin.com/in/cole-sweeney-976121221/)  
 - Email: cole.sweeney.1212@gmail.com
 
 
