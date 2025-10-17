@@ -1,11 +1,6 @@
-# Hey, I'm Cole Sweeney 
+# Cole Sweeney
 
-I'm a recent Informatics graduate from Indiana University with a focus on data science, public health, and emerging tech. I like building tools that help people make better decisions—especially when they involve messy real-world data, sustainability, or accessibility.
-
-## 🛠 Technical Skills
-- **Languages:** Python, SQL, R, PHP, MATLAB, HTML, CSS
-- **Tools:** Power BI, Git, Jupyter, Excel, VS Code
-- **Learning:** Docker, FastAPI, Streamlit, LLMs, CI/CD
+**Informatics Graduate | Data, Sustainability & Public Health Analytics**
 
 ## 🎓 Education
 **B.S., Informatics**
@@ -14,30 +9,56 @@ I'm a recent Informatics graduate from Indiana University with a focus on data s
 
 *Indiana University — May 2024*
 
-## 💻 Projects
+I build real-world tools that make data understandable — from air-quality dashboards to food-waste reduction apps.  
+Based in Indianapolis and seeking an entry-level **Data or Sustainability Analyst** role where I can apply analytics, visualization, and environmental data skills to real-world impact.
 
-### 🍽️ Plate Saver – Food Waste Reduction App  
-Collaborated with a student team to design and build a full-stack web app aimed at reducing food waste on campus. Users could log and track leftover meals, get meal planning suggestions, and measure food saved over time. Built using Python, Flask, SQL, Google Api, and HTML/CSS. Served as a capstone project for the Informatics degree at Indiana University.
+---
 
-### 💉 COVID-19 Vaccination Rate Dashboard  
-Created an interactive dashboard using Python (Pandas, Plotly, Dash) to track COVID-19 vaccination rates across U.S. states. Pulled data from public APIs (CDC and/or Our World in Data) and visualized trends over time. Designed to be simple, responsive, and easy to understand for non-technical users, including public health outreach teams.
+## 🧩 Featured Projects
 
-### 🌍 Environmental Health Dashboard  
-Used Python (Pandas, Plotly, Dash) to visualize PM2.5 air quality data from the OpenAQ API. Created dynamic visualizations and trend tracking across U.S. cities. Used by peers for public health research and environmental policy projects.
+🍽️ **[Plate Saver – Food Waste Reduction App](https://github.com/ColeSweeney/CapstoneTeam)**  
+Collaborated with a student team to design and build a full-stack web app aimed at reducing food waste on campus.  
+Users can log leftover meals, get meal-planning suggestions, and measure food saved over time.  
+Built using **Python, Flask, SQL, Google API, and HTML/CSS**.  
+Capstone project for the Informatics degree at Indiana University.
 
-### 🧠 EEG Band Discovery with Decision Trees *(In Progress)*  
-Built interpretable models in Python using scikit-learn to analyze EEG frequency band patterns and cognitive states. Focused on decision tree modeling for explainability. Shared as part of a research collaboration.
+💉 **[COVID-19 Vaccination Rate Dashboard](https://github.com/ColeSweeney/COVID-Vaccine-Dashboard)**  
+Created an interactive dashboard using **Python (Pandas, Plotly, Dash)** to track vaccination rates across U.S. states.  
+Pulled data from public APIs (CDC / Our World in Data) and visualized trends over time.  
+Designed for accessibility and clarity for public-health outreach teams.
 
-### 🌡️ Sensor Simulation Script *(In Progress)*  
-Developing a Python-based tool to simulate thermocouple and voltage readings. Used for testing data pipelines, validating refresh intervals, and measuring system performance under load. Incorporates realistic signal variation and modular config.
+🌍 **[Environmental Health Dashboard](https://github.com/ColeSweeney/EnvironmentalHealthDashboard)**  
+Used **Python (Pandas, Plotly, Dash)** to visualize PM2.5 air-quality data from the OpenAQ API.  
+Built dynamic trend tracking and city-level visualizations.  
+Used by peers for public-health and environmental policy projects.
 
-### ⌨️ Brain-Inspired UI Navigation *(In Progress)*  
-Creating a Python program that uses keyboard emulation (`pynput`) to simulate user input through simplified binary triggers. Designed to explore accessible input systems inspired by brain-computer interfaces (BCI) for motor-impaired users.
+🌡️ **[Sensor Simulation Script (In Progress)](https://github.com/ColeSweeney/PiSensorTests)**  
+Developing a Python-based tool to simulate thermocouple and voltage readings on a Raspberry Pi.  
+Used to test data pipelines, validate refresh intervals, and measure system performance under load.  
+Incorporates realistic signal variation, modular configuration, and logging to CSV for integration into the Raspberry Pi environmental data project.
 
-## 📌 Goals  
-- Build and document more public-facing projects  
-- Contribute to a clean tech or AI-for-good org  
-- Learn just enough backend dev to be dangerous
+🔊 **[Door Trigger Audio](https://github.com/ColeSweeney/PiSoundTrigger)**  
+Built a Raspberry Pi-based motion/door-sensor system that plays custom audio clips when triggered.  
+Used **GPIO event detection** and Python scripting to control playback logic.  
+Demonstrates physical-computing integration and sensor responsiveness.
+
+---
+
+## ⚙️ Skills
+Python  •  SQL  •  Power BI  •  R  •  Dash  •  Flask  •  Git  •  Raspberry Pi  •  Public Health Data  •  Environmental Analytics
+
+---
+
+## 🎯 Current Goal
+Entry-level **Data / Sustainability Analyst** role in **Indianapolis**  
+Focused on data quality, visualization, and environmental metrics.
+
+---
+
+## 📫 Contact
+- LinkedIn: [linkedin.com/in/colesweeney](https://linkedin.com/in/colesweeney)  
+- Email: cole.sweeney.1212@gmail.com
+
 
 ## Projects](https://github.com/ColeSweeney/Projects)
 ### Data-Driven EEG Band Discovery with Decision Trees
