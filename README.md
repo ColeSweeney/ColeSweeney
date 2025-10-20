@@ -22,7 +22,7 @@ Users can log leftover meals, get meal-planning suggestions, and measure food sa
 Built using **Python, Flask, SQL, Google API, and HTML/CSS**.  
 Capstone project for the Informatics degree at Indiana University.
 
-💉 **[COVID-19 Vaccination Rate Dashboard]([https://github.com/ColeSweeney/COVID-Vaccine-Dashboard.git])**  
+💉 **[COVID-19 Vaccination Rate Dashboard](https://github.com/ColeSweeney/COVID-Vaccine-Dashboard.git)**  
 Created an interactive dashboard using **Python (Pandas, Plotly, Dash)** to track vaccination rates across U.S. states.  
 Pulled data from public APIs (CDC / Our World in Data) and visualized trends over time.  
 Designed for accessibility and clarity for public-health outreach teams.
