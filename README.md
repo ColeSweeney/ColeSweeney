@@ -27,7 +27,7 @@ Created an interactive dashboard using **Python (Pandas, Plotly, Dash)** to trac
 Pulled data from public APIs (CDC / Our World in Data) and visualized trends over time.  
 Designed for accessibility and clarity for public-health outreach teams.
 
-🌍 **[Environmental Health Dashboard](https://github.com/ColeSweeney/EnvironmentalHealthDashboard)**  
+🌍 **[Environmental Health Dashboard](In Progress)(https://github.com/ColeSweeney/EnvironmentalHealthDashboard)**  
 Used **Python (Pandas, Plotly, Dash)** to visualize PM2.5 air-quality data from the OpenAQ API.  
 Built dynamic trend tracking and city-level visualizations.  
 Used by peers for public-health and environmental policy projects.
