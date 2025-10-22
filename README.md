@@ -16,7 +16,7 @@ Based in Indianapolis and seeking an entry-level **Data or Sustainability Analys
 
 ## 🧩 Featured Projects
 
-🍽️ **[Plate Saver – Food Waste Reduction App](https://github.com/ColeSweeney/CapstoneTeam)**  
+🍽️ **[Plate Saver – Food Waste Reduction App](https://github.com/ColeSweeney/Projects)**  
 Collaborated with a student team to design and build a full-stack web app aimed at reducing food waste on campus.  
 Users can log leftover meals, get meal-planning suggestions, and measure food saved over time.  
 Built using **Python, Flask, SQL, Google API, and HTML/CSS**.  
@@ -27,17 +27,17 @@ Created an interactive dashboard using **Python (Pandas, Plotly, Dash)** to trac
 Pulled data from public APIs (CDC / Our World in Data) and visualized trends over time.  
 Designed for accessibility and clarity for public-health outreach teams.
 
-🌍 **[Environmental Health Dashboard](In Progress)(https://github.com/ColeSweeney/EnvironmentalHealthDashboard)**  
+🌍 **[Environmental Health Dashboard](https://github.com/ColeSweeney/EnvironmentalHealthDashboard)(In Progress...)**  
 Used **Python (Pandas, Plotly, Dash)** to visualize PM2.5 air-quality data from the OpenAQ API.  
 Built dynamic trend tracking and city-level visualizations.  
 Used by peers for public-health and environmental policy projects.
 
-🌡️ **[Sensor Simulation Script (In Progress)](https://github.com/ColeSweeney/PiSensorTests)**  
+🌡️ **[Sensor Simulation Script (In Progress)](https://github.com/ColeSweeney/PiSensorTests)(In Progress...)*  
 Developing a Python-based tool to simulate thermocouple and voltage readings on a Raspberry Pi.  
 Used to test data pipelines, validate refresh intervals, and measure system performance under load.  
 Incorporates realistic signal variation, modular configuration, and logging to CSV for integration into the Raspberry Pi environmental data project.
 
-🔊 **[Door Trigger Audio](https://github.com/ColeSweeney/PiSoundTrigger)**  
+🔊 **[Door Trigger Audio](https://github.com/ColeSweeney/PiSoundTrigger)(In Progress...)**  
 Built a Raspberry Pi-based motion/door-sensor system that plays custom audio clips when triggered.  
 Used **GPIO event detection** and Python scripting to control playback logic.  
 Demonstrates physical-computing integration and sensor responsiveness.
